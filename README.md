@@ -27,6 +27,11 @@ You can download the latest version for your platform from the [Releases](https:
 1. Download the `.dmg` file.
 2. Open it and drag **HomeDock OS Desktop** into your Applications folder.
 3. If macOS blocks it, [read this quick guide](https://support.apple.com/en-us/HT202491) to allow unsigned apps.
+4. Alternatively, you can run the following command on the Terminal until we sign the app:
+
+```bash
+sudo xattr -rd com.apple.quarantine "/Applications/HomeDock OS Desktop.app"
+```
 
 ### Windows
 
