@@ -60,7 +60,7 @@ Installed apps behave just like native ones while the HomeDock OS Desktop is run
 
 If you encounter any issues while using **HomeDock OS Desktop**, we’ll be happy to help.
 
-Please attach the `hdos_desktop.log` file in your email to **support@homedock.cloud**. This log contains technical information that is **incredibly helpful for us to improve the app and move it out of Beta**.
+Please attach the `hdos_desktop.log` file to your email and send it to **support@homedock.cloud**. This log contains technical information that is incredibly helpful for us **to fix issues and move the app out of Beta faster**.
 
 🔍 You can find the log file here:
 
@@ -70,7 +70,9 @@ Please attach the `hdos_desktop.log` file in your email to **support@homedock.cl
 - **Windows**:  
   `%APPDATA%\cloud.homedock.app\homedock\hdos_desktop.log`
 
-Thanks for your support and for being part of the future of self-hosting.
+This is a technically ambitious project, as we’ve built everything from the ground up to run **without relying on Docker Desktop**, enabling a truly native self-hosting experience on Windows and macOS. That comes with unique challenges, and your feedback helps us overcome them faster.
+
+Thanks for your support, you're helping shape the future of self-hosting.
 
 ---
 
