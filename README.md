@@ -56,6 +56,24 @@ Installed apps behave just like native ones while the HomeDock OS Desktop is run
 
 ---
 
+## 🛠️ Troubleshooting and Error Reporting
+
+If you encounter any issues while using **HomeDock OS Desktop**, we’ll be happy to help.
+
+Please attach the `hdos_desktop.log` file in your email to **support@homedock.cloud**. This log contains technical information that is **incredibly helpful for us to improve the app and move it out of Beta**.
+
+🔍 You can find the log file here:
+
+- **macOS**:  
+  `/Users/your_username/Library/Application Support/cloud.homedock.app/homedock/hdos_desktop.log`
+
+- **Windows**:  
+  `%APPDATA%\cloud.homedock.app\homedock\hdos_desktop.log`
+
+Thanks for your support and for being part of the future of self-hosting.
+
+---
+
 ## 🚨 Source Code
 
 This repository **does not contain the source code**. It is exclusively used to distribute signed installers and official binaries for **HomeDock OS Desktop**, our Electron-based project that brings HomeDock OS to Windows and macOS.
