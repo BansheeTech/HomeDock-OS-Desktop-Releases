@@ -29,18 +29,16 @@ You can always get the latest version for your system from [our official website
 
 1. Download the `.dmg` file.
 2. Open it and drag **HomeDock OS Desktop** into your Applications folder.
-3. If macOS blocks it, [read this quick guide](https://support.apple.com/en-us/HT202491) to allow unsigned apps.
-4. Alternatively, you can run the following command on the Terminal until we sign the app:
-
-```bash
-sudo xattr -rd com.apple.quarantine "/Applications/HomeDock OS Desktop.app"
-```
+3. You’ll find HomeDock OS Desktop listed in your Applications immediately.
 
 ### Windows
 
 1. Download the `.exe` installer.
 2. Run it and follow the setup wizard.
-3. Shortcut will appear on your desktop and start menu.
+3. Shortcut to **HomeDock OS Desktop** will appear on your desktop and start menu.
+
+><sub>🟠 __In need of support?__
+Please check our [Documentation](https://docs.homedock.cloud/setup/installation/#self-hosted-environments) or drop us a line on our [Official Discord Server](https://discord.gg/Zj3JCYsRWw) and open a ticket.</sub>
 
 ---
 
