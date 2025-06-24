@@ -10,12 +10,15 @@ This repository contains the official **installers** for [HomeDock OS Desktop](h
 
 ## 🔽 Download Latest Version
 
-You can download the latest version for your platform from the [Releases](https://github.com/BansheeTech/HomeDock-OS-Desktop-Releases/releases) page or [our official website](https://www.homedock.cloud/install/).
+You can always get the latest version for your system from [our official website](https://www.homedock.cloud/install/), which automatically provides the most up-to-date release. Alternatively, you can visit the [GitHub Releases page](https://github.com/BansheeTech/HomeDock-OS-Desktop-Releases/releases) to manually select a specific version for your OS.
+
+><sub>🟢 __Please note that older releases may be unsigned or contain errors, we strongly recommend downloading the latest version whenever possible.__</sub>
+
 
 | Platform                         | Installer / Command                                  |
 | -------------------------------- | ---------------------------------------------------- |
 | 🖥️ macOS (Intel & Apple Silicon) | `.dmg` file                                          |
-| 🪟 Windows 10/11 (x64)           | `.exe` file                                          |
+| 🪟 Windows 10 Pro/11 (x64)           | `.exe` file                                          |
 | 🐧 Linux (Headless setup)        | `curl -fsSL https://get.homedock.cloud \| sudo bash` |
 
 ---
